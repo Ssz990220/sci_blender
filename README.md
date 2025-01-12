@@ -4,6 +4,7 @@ Resources of using blender for academic plotting
 ## Blogs
 
 [Blender for Academic Papers](https://www.silviasellan.com/projects/blender-for-academic-papers/) by Silvia Sellán.
+
 [ILLUSTRATING GEOMETRY](https://www.cs.cmu.edu/~kmcrane/Projects/Other/IllustratingGeometry.pdf) by Keenan Crane.
 
 ## Courses
